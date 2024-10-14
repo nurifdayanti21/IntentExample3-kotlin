@@ -3,10 +3,7 @@ package id.ac.polbeng.nurifdayanti.intentexample3
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import id.ac.polbeng.nurifdayanti.intentexample3.databinding.ActivityMainBinding
 
 const val SECOND_ACTIVITY = 1000
